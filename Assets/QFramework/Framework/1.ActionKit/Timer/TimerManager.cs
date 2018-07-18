@@ -8,8 +8,12 @@ namespace QFramework.TimeExtend
     public class Timer
     {
         static List<Timer> timers = new List<Timer>();
-        private Action<float> UpdateEvent;
-        private Action EndEvent;
+
+
+        private Action<float> UpdateEvent; //每帧会响应 
+        private Action EndEvent;           //定时结束响应 
+        
+        
         /// <summary>
         /// 用户设定的定时时长
         /// </summary>
@@ -31,7 +35,13 @@ namespace QFramework.TimeExtend
         /// <summary>
         /// 获得当前时间
         /// </summary>
-        private float CurrentTime { get { return _ignorTimescale ? UnityEngine.Time.realtimeSinceStartup : UnityEngine.Time.time; } }
+        private float CurrentTime
+        {
+            get
+            {
+                return _ignorTimescale ? UnityEngine.Time.realtimeSinceStartup : UnityEngine.Time.time;
+            }
+        }
         /// <summary>
         /// 缓存时间
         /// </summary>
@@ -391,6 +401,7 @@ namespace QFramework.TimeExtend
                 Delegate[] delegates = EndEvent.GetInvocationList();
                 if (!Array.Exists(delegates,(v)=> { return v ==(Delegate) completedEvent; }))
                 {
+                    Debug.Log("加上了");
                     EndEvent += completedEvent;
                 }
             }

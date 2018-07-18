@@ -21,6 +21,7 @@ public class ReadInfoVarJson : MonoBehaviour
     {
         data = VideoData.FromJson(jsonData.text);
         vlist = data.Data.Vlist;
+      
     }
 
 
@@ -28,7 +29,7 @@ public class ReadInfoVarJson : MonoBehaviour
     IEnumerator GetCoverVarUrl(string url, Action<Sprite> OnComplected)
     {
         WWW www = new WWW(url);
-        Timer.AddTimer(1, "ForCor").OnCompleted(() =>  //使用定时器安放一个超时检测
+        Timer.AddTimer(0.5f, "ForCor").OnCompleted(() =>  //使用定时器安放一个超时检测
         {
             Debug.LogWarning("连接超时！");
             www.Dispose();
@@ -54,9 +55,10 @@ public class ReadInfoVarJson : MonoBehaviour
         www.Dispose();
     }
 
-    void Update()
+    private void OnGUI()
     {
-        if (Input.GetMouseButtonDown(1))
+
+        if (GUILayout.Button("下一集"))
         {
             if (null == cachedCor)
             {
@@ -70,7 +72,6 @@ public class ReadInfoVarJson : MonoBehaviour
                 string msg = string.Format("{0}\n<size=14>{1}</size>", vlist[index].ShortTitle, vlist[index].Vt);
                 string videoUrl = vlist[index].Vurl;
 
-
                 cachedCor = StartCoroutine(GetCoverVarUrl(picUrl, (V) =>
                 {
                     text.text = msg; //显示第几集
@@ -82,8 +83,8 @@ public class ReadInfoVarJson : MonoBehaviour
                     button.onClick.AddListener(() =>     //开启新的监听
                     {
                         System.Diagnostics.Process.Start(videoUrl);  //开启这个链接
-                        //System.Diagnostics.Process.Start(vlist[index].Vurl);  //BUG语句 闭包在这里会导致访问的是下一集的链接，因为这个Action里面使用了index，而他随后被自增，所以当点击事件发生时，index已经被加1，故而它访问的是下一条链接，解决办法就是，使用局部变量“videoUrl”缓存这条数据即可
-                     });
+                                                                     //System.Diagnostics.Process.Start(vlist[index].Vurl);  //BUG语句 闭包在这里会导致访问的是下一集的链接，因为这个Action里面使用了index，而他随后被自增，所以当点击事件发生时，index已经被加1，故而它访问的是下一条链接，解决办法就是，使用局部变量“videoUrl”缓存这条数据即可
+                    });
                     index++;
                 }));
             }
