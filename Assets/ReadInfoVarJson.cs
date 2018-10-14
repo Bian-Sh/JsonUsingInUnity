@@ -46,10 +46,7 @@ public class ReadInfoVarJson : MonoBehaviour
             {
                 Rect rect = new Rect(Vector2.zero, new Vector2(texture.width, texture.height));
                 Sprite sprite = Sprite.Create(texture, rect, Vector2.zero);
-                if (null != OnComplected)
-                {
-                    OnComplected(sprite);
-                }
+                OnComplected?.Invoke(sprite);
             }
         }
         www.Dispose();

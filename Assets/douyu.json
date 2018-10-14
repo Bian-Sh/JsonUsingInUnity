@@ -1,0 +1,6465 @@
+﻿{
+"code": 0,
+"msg": "success",
+"data": {
+"ct": {
+"iv": 1,
+"ivcv": 1,
+"tag": 1,
+"tn": "",
+"vmcrr": 0,
+"vmcm": ""
+},
+"rl": [
+{
+"rid": 1024900,
+"rn": "你，好不好？ 1024900",
+"uid": 66785723,
+"nn": "cici莹胖胖",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/529ae798a6eb31b4a806f8e8445e2988",
+"ol": 17075,
+"url": "/1024900",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/10/1024900_20180910214913_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/10/1024900_20180910214913_small.jpg",
+"utag": [
+{
+"name": "老李",
+"id": 27542
+},
+{
+"name": "人美彪悍",
+"id": 113257
+},
+{
+"name": "星座控",
+"id": 162211
+},
+{
+"name": "大胖脸",
+"id": 25691
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4937171,
+"rn": "占卜师拍卖会",
+"uid": 201194932,
+"nn": "占星师酷酷",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avanew/face/201805/c61ee07be18d02495522082c199bf712",
+"ol": 16038,
+"url": "/4937171",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/29/4937171_20180729141652_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/29/4937171_20180729141652_small.jpg",
+"utag": [
+{
+"name": "搞笑",
+"id": 121
+},
+{
+"name": "我的老哥",
+"id": 9075
+},
+{
+"name": "带妹狂魔",
+"id": 4877
+},
+{
+"name": "哈哈哈",
+"id": 4324
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2228580,
+"rn": "谁曾发现我的世界曾经有过你的脸",
+"uid": 141970475,
+"nn": "米米nnn",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/e2993cf8ef01f88dfb5c6a3eec085f01",
+"ol": 16596,
+"url": "/2228580",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/2228580_20181008193705_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/2228580_20181008193705_small.jpg",
+"utag": [
+{
+"name": "好看",
+"id": 564
+},
+{
+"name": "我女朋友",
+"id": 1053
+},
+{
+"name": "大美女",
+"id": 6243
+},
+{
+"name": "跑调妹",
+"id": 107044
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4095665,
+"rn": "为家人奋斗",
+"uid": 184643040,
+"nn": "暖男二叔",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201801/18/15/bbc78f10b4403552857cb0ac71c23629",
+"ol": 17159,
+"url": "/4095665",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/02/03/4095665_20180203101715_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/02/03/4095665_20180203101715_small.jpg",
+"utag": [
+{
+"name": "搞笑",
+"id": 121
+},
+{
+"name": "敢拼敢玩",
+"id": 20056
+},
+{
+"name": "逗笔",
+"id": 8145
+},
+{
+"name": "会玩",
+"id": 26978
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 756836,
+"rn": "你是我的大猪蹄子",
+"uid": 56744752,
+"nn": "我是你的夏夏啊",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/b81cdd3f15a5f2aeeff97bda3da86793",
+"ol": 16375,
+"url": "/756836",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/10/756836_20180810075639_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/10/756836_20180810075639_small.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "恶魔老婆",
+"id": 125712
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3312095,
+"rn": "欢迎你来到我的直播间~",
+"uid": 167142219,
+"nn": "媛子蛋Zzz",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/fd38c84a54844ce4c2e7c2a2065d5a6f",
+"ol": 16069,
+"url": "/3312095",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/07/3312095_20180907140045_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/07/3312095_20180907140045_small.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "合法萝莉",
+"id": 12150
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5571232,
+"rn": "可爱萌新主播了解一下5571232",
+"uid": 221951434,
+"nn": "溶榕酱",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/f2ffc69a1e186951a3424288885fc3e3",
+"ol": 18457,
+"url": "/5571232",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5571232_2046701_331e6_1_2057.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5571232_2046701_331e6_2_2057.jpg",
+"utag": [
+{
+"name": "哦哦哦哦",
+"id": 57221
+},
+{
+"name": "可爱妖精",
+"id": 241059
+},
+{
+"name": "用户43",
+"id": 241037
+},
+{
+"name": "流星老婆",
+"id": 235173
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5356377,
+"rn": "你真的以为我不咬你吗？5356377",
+"uid": 213472692,
+"nn": "静香papa",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/37f963aa7180be101f3cd58e75d6097f",
+"ol": 16974,
+"url": "/5356377",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5356377_4050148_22dad_1_2054.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5356377_4050148_22dad_2_2054.jpg",
+"utag": [
+{
+"name": "恶魔女友",
+"id": 183452
+},
+{
+"name": "x皇老婆",
+"id": 178793
+},
+{
+"name": "呆萌主播",
+"id": 5014
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5264000,
+"rn": "做梦吧，梦里什么都有",
+"uid": 210405982,
+"nn": "月月大魔王w",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/c55a54e0185260f3ec04ae376dd931cd",
+"ol": 14613,
+"url": "/5264000",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/5264000_20180919124821_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/5264000_20180919124821_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "重庆妹子",
+"id": 31077
+},
+{
+"name": "有点逗",
+"id": 19330
+},
+{
+"name": "小心老陈",
+"id": 80704
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5615761,
+"rn": "符艺曦真是太可爱了",
+"uid": 223858792,
+"nn": "符艺曦",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/2a8e48fbef1ab712e1b440e8a3de9835",
+"ol": 14560,
+"url": "/5615761",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5615761_20180901165624_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5615761_20180901165624_small.jpg",
+"utag": [
+{
+"name": "超级美女",
+"id": 9763
+},
+{
+"name": "萌新女神",
+"id": 92905
+},
+{
+"name": "流星女友",
+"id": 244498
+},
+{
+"name": "气质美女",
+"id": 8079
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4350053,
+"rn": "努力吧少年 4350053",
+"uid": 190412891,
+"nn": "梁子寒很浪么",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/e5a07cee0596d7a326ecb5a89264e347",
+"ol": 24093,
+"url": "/4350053",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/4350053_5659580_47f17_1_2028.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/4350053_5659580_47f17_2_2028.jpg",
+"utag": [
+{
+"name": "歌手",
+"id": 3020
+},
+{
+"name": "帅哥",
+"id": 700
+},
+{
+"name": "无与伦比",
+"id": 6369
+},
+{
+"name": "风度翩翩",
+"id": 3612
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5068825,
+"rn": "多吃糖会开心起来的",
+"uid": 204674716,
+"nn": "暮小晓",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/04de6a0edd69f7c6e7b9410393bda1d8",
+"ol": 15309,
+"url": "/5068825",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5068825_5451964_25424_1_2055.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5068825_5451964_25424_2_2055.jpg",
+"utag": [
+{
+"name": "小可爱",
+"id": 379
+},
+{
+"name": "晓河豚",
+"id": 258769
+},
+{
+"name": "晓胖胖",
+"id": 258374
+},
+{
+"name": "丰言风雨",
+"id": 252633
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3707717,
+"rn": "需要你陪～",
+"uid": 103068043,
+"nn": "彦八岁",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/6100c87ae253a42d146b2975cdd98d2d",
+"ol": 15507,
+"url": "/3707717",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/04/2dc626e4e2519ae078ef6decdf29fe93_small.png",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/04/2dc626e4e2519ae078ef6decdf29fe93_big.png",
+"utag": [
+{
+"name": "博嫂",
+"id": 103963
+},
+{
+"name": "初恋",
+"id": 3897
+},
+{
+"name": "最美",
+"id": 10056
+},
+{
+"name": "TD比心",
+"id": 172699
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5380094,
+"rn": "追梦老妈妈",
+"uid": 214296360,
+"nn": "内蒙古老妈妈",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201807/82b7f5b6967e46a469025872fd09ea90",
+"ol": 14631,
+"url": "/5380094",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/23/5380094_20180723091532_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/23/5380094_20180723091532_small.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "B总老婆",
+"id": 32630
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5643150,
+"rn": "你好啊，陌生人 5643150",
+"uid": 224751078,
+"nn": "娜雅儿",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/c1535475f6a3d50aa5b2fad2a434f300",
+"ol": 15547,
+"url": "/5643150",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/07/5fc046e5fc61c98a867e88904de7eeff_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/07/5fc046e5fc61c98a867e88904de7eeff_big.jpg",
+"utag": [
+{
+"name": "二乎乎的",
+"id": 242010
+},
+{
+"name": "初恋",
+"id": 3897
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5312774,
+"rn": "荧光棒交出来 5312774",
+"uid": 200713129,
+"nn": "露泓呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201804/12tamhnscmq178jgdzcolvjclhtlrl82",
+"ol": 13712,
+"url": "/5312774",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/5312774_20181008150326_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/5312774_20181008150326_small.jpg",
+"utag": [
+{
+"name": "美美美",
+"id": 41
+},
+{
+"name": "超级美女",
+"id": 9763
+},
+{
+"name": "大大大大",
+"id": 5218
+},
+{
+"name": "死亡歌姬",
+"id": 6302
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3285381,
+"rn": "周末真可爱~",
+"uid": 71759861,
+"nn": "七七你是最胖的",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201806/06ce2afbc3477b0279835097507b3e98",
+"ol": 14741,
+"url": "/3285381",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/3285381_930127_35c89_1_2059.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/3285381_930127_35c89_2_2059.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "小心大毛",
+"id": 80839
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 476004,
+"rn": "喜欢你看到我的每一天都是开心的❤",
+"uid": 26915740,
+"nn": "神经大条刘腾腾",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/ad92131f9fd796a957c8c10df54ac565",
+"ol": 14702,
+"url": "/476004",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/476004_1961616_27122_1_2056.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/476004_1961616_27122_2_2056.jpg",
+"utag": [
+{
+"name": "爱笑女神",
+"id": 104872
+},
+{
+"name": "暖心女神",
+"id": 79016
+},
+{
+"name": "善良腾",
+"id": 106159
+},
+{
+"name": "未婚妻",
+"id": 23282
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4566947,
+"rn": "我在等你 快来",
+"uid": 194961267,
+"nn": "关晓羽",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/1d2b57e33118888654395c7539d6c200",
+"ol": 14592,
+"url": "/4566947",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/12/4566947_20180912152515_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/12/4566947_20180912152515_small.jpg",
+"utag": [
+{
+"name": "曼酱夫人",
+"id": 189592
+},
+{
+"name": "三哥老婆",
+"id": 158594
+},
+{
+"name": "曼酱老婆",
+"id": 188877
+},
+{
+"name": "女神",
+"id": 391
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2739520,
+"rn": "不要看了 我知道你会进来",
+"uid": 154024862,
+"nn": "cc小小丹",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/74ccc98a62e65b95bf977dbd51990451",
+"ol": 14614,
+"url": "/2739520",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/13/2739520_20180913121459_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/13/2739520_20180913121459_small.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "血哥老婆",
+"id": 171645
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2916989,
+"rn": "苦涩回忆都会温柔~",
+"uid": 157517219,
+"nn": "一顆卷心菜",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/2353330d3ca05856f796718845ee2c14",
+"ol": 13793,
+"url": "/2916989",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/16/c86f5717e53596f064a1feb1ae2d2927_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/16/c86f5717e53596f064a1feb1ae2d2927_big.jpg",
+"utag": [
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "初恋系",
+"id": 104044
+},
+{
+"name": "活泼可爱",
+"id": 266
+},
+{
+"name": "长腿",
+"id": 1688
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5808442,
+"rn": "第四天了 升个级？",
+"uid": 191376982,
+"nn": "Im璐哥",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/0f0d5e4f7b2d85a817f55219ec52ee94",
+"ol": 14315,
+"url": "/5808442",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/5808442_20181008215826_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/5808442_20181008215826_small.jpg",
+"utag": [
+{
+"name": "TD正直",
+"id": 240864
+},
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "TD老婆",
+"id": 149970
+},
+{
+"name": "TD",
+"id": 14598
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3451830,
+"rn": "斗鱼3451830了解一下",
+"uid": 171279273,
+"nn": "一颗怂丸子",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/34e0d8455a4f39d2aec40cc5db95bdcb",
+"ol": 14747,
+"url": "/3451830",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/18/3451830_20180918100026_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/18/3451830_20180918100026_small.jpg",
+"utag": [
+{
+"name": "大头丸",
+"id": 104495
+},
+{
+"name": "我闺女",
+"id": 63028
+},
+{
+"name": "可爱迷人",
+"id": 4852
+},
+{
+"name": "天籟美聲",
+"id": 106468
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5445728,
+"rn": "我陪着你呀！",
+"uid": 216422046,
+"nn": "猪洛洛Athene",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/9c3a2c8fa284b2adcb7a3ae55b4ef553",
+"ol": 14608,
+"url": "/5445728",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/21/5445728_20180821201610_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/21/5445728_20180821201610_small.jpg",
+"utag": [
+{
+"name": "漂亮女神",
+"id": 115648
+},
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "洛洛大方",
+"id": 244553
+},
+{
+"name": "漂亮可爱",
+"id": 6210
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5164646,
+"rn": "你的短发小萝莉",
+"uid": 208230807,
+"nn": "遇见遥崽",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201808/e095a9d74f805b4157651fee9edecba6",
+"ol": 14537,
+"url": "/5164646",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/08/f5d81a20752239cc58a8b737b7d322f0_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/08/f5d81a20752239cc58a8b737b7d322f0_big.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "人美声甜",
+"id": 523
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 770242,
+"rn": "我想做你的大脸娜",
+"uid": 47124415,
+"nn": "我是Mona没有Lisa",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/d8bd71f959bcae8c68ce0af4be3e74ba",
+"ol": 14080,
+"url": "/770242",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/29/770242_20180929150258_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/29/770242_20180929150258_small.jpg",
+"utag": [
+{
+"name": "珠海一姐",
+"id": 127373
+},
+{
+"name": "广州一姐",
+"id": 107047
+},
+{
+"name": "深圳一姐",
+"id": 162310
+},
+{
+"name": "米饭老婆",
+"id": 245933
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5319202,
+"rn": "不忘初心，方得始终。 5319202",
+"uid": 212239577,
+"nn": "我是苏十一啊",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/6399a13dadea61562b7e13ed3df7acae",
+"ol": 13628,
+"url": "/5319202",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/05/5319202_20180905235616_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/05/5319202_20180905235616_small.jpg",
+"utag": [
+{
+"name": "漂亮姐姐",
+"id": 15855
+},
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "基哥老婆",
+"id": 243078
+},
+{
+"name": "波波女票",
+"id": 232070
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5586401,
+"rn": "不直播让我的数百粉丝无处安放？",
+"uid": 222735951,
+"nn": "麋璐小宝贝",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/dd95cc0d752bf60b5c9a912c6e5d2ee1",
+"ol": 12705,
+"url": "/5586401",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5586401_5471498_2d2fd_1_2046.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5586401_5471498_2d2fd_2_2046.jpg",
+"utag": [
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "迟到酱",
+"id": 252878
+},
+{
+"name": "大脸小胖",
+"id": 240830
+},
+{
+"name": "胖妹儿",
+"id": 15293
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5383908,
+"rn": "今天是仙气西柚呢",
+"uid": 214478934,
+"nn": "你的西柚呀",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/fc041ecc5b396fec113f646abc546e23",
+"ol": 13912,
+"url": "/5383908",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/12/6c19585a1507242493adf429695150bb_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/12/6c19585a1507242493adf429695150bb_big.jpg",
+"utag": [
+{
+"name": "可爱西柚",
+"id": 257126
+},
+{
+"name": "傻白甜",
+"id": 23
+},
+{
+"name": "超级玛丽",
+"id": 12176
+},
+{
+"name": "西柚甜甜",
+"id": 264024
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5711217,
+"rn": "主播离你0.1KM求关注 5711217",
+"uid": 226994378,
+"nn": "叮叮噹927",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/c12d7a1ea5f4a01307269010855fb4fb",
+"ol": 14466,
+"url": "/5711217",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/5711217_20181012193030_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/5711217_20181012193030_small.jpg",
+"utag": [
+{
+"name": "素颜美女",
+"id": 38442
+},
+{
+"name": "联合计划",
+"id": 258492
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5616167,
+"rn": "新主播求关注 5616167",
+"uid": 223871093,
+"nn": "小婷婷卐",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/74b3d1fe05020de521748ab401cd7393",
+"ol": 9646,
+"url": "/5616167",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5616167_5643877_64597_1_2057.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5616167_5643877_64597_2_2057.jpg",
+"utag": [
+{
+"name": "婷可爱",
+"id": 260319
+},
+{
+"name": "婷鬼子",
+"id": 254619
+},
+{
+"name": "小学生",
+"id": 4231
+},
+{
+"name": "帝国公主",
+"id": 261871
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5627741,
+"rn": "新主播，多多关注 5627741",
+"uid": 224273371,
+"nn": "瑶瑶不会瑶",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/c653b27ef628363f9471d57500fdfa30",
+"ol": 13954,
+"url": "/5627741",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/04/5627741_20180904165632_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/04/5627741_20180904165632_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "TD笔芯",
+"id": 172701
+},
+{
+"name": "心动女神",
+"id": 82144
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3220862,
+"rn": "主播距离你2.00km",
+"uid": 40826360,
+"nn": "大豆豆豆呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/4d90f55e5ba62fb764f61fa910398701",
+"ol": 13931,
+"url": "/3220862",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/3220862_20181008220513_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/3220862_20181008220513_small.jpg",
+"utag": [
+{
+"name": "大眼睛",
+"id": 8292
+},
+{
+"name": "高冷御姐",
+"id": 19020
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5484832,
+"rn": "星星的大宇宙",
+"uid": 214685821,
+"nn": "星星kiraki",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/d04e5bb591ddacaf3cc95a17c6cfd3ef",
+"ol": 14023,
+"url": "/5484832",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/21/5484832_20180821010613_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/21/5484832_20180821010613_small.jpg",
+"utag": [
+{
+"name": "天上星星",
+"id": 230567
+},
+{
+"name": "美女主播",
+"id": 688
+},
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "女装大佬",
+"id": 712
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5617513,
+"rn": "你恰好来，我刚好在，一切都刚刚好",
+"uid": 223632734,
+"nn": "甜橙c小姐姐",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/67ccd392fb720b670e07b477460d34ff",
+"ol": 23432,
+"url": "/5617513",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/02/5617513_20181002050645_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/02/5617513_20181002050645_small.jpg",
+"utag": [
+{
+"name": "牙牙",
+"id": 39105
+},
+{
+"name": "跳舞",
+"id": 24897
+},
+{
+"name": "酒鬼主播",
+"id": 71892
+},
+{
+"name": "酒鬼衣服",
+"id": 243212
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4568261,
+"rn": "石乐志小主播了解一哈",
+"uid": 194968441,
+"nn": "Charming大明",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/d34ba7499f29567e920ee841b3b8633c",
+"ol": 13039,
+"url": "/4568261",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/4568261_5775734_11cb2_1_2057.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/4568261_5775734_11cb2_2_2057.jpg",
+"utag": [
+{
+"name": "恶魔老婆",
+"id": 125712
+},
+{
+"name": "圈圈老婆",
+"id": 232331
+},
+{
+"name": "圈圈的爱",
+"id": 232824
+},
+{
+"name": "国际机场",
+"id": 141875
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4669412,
+"rn": "就说唱歌好听好听你不信",
+"uid": 196294976,
+"nn": "PAPI允儿",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/5bbe8d4f54946acc631a7d2b598a4f80",
+"ol": 12445,
+"url": "/4669412",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/11/4669412_20181011120207_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/11/4669412_20181011120207_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "TD笔芯",
+"id": 172701
+},
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "超可爱",
+"id": 6971
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5660137,
+"rn": "遇见你，弥足珍贵",
+"uid": 225280217,
+"nn": "寶儿小可爱",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/211dcea7fad74bd225c811e95c0f4146",
+"ol": 13272,
+"url": "/5660137",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/11/63c3471ea9b49b21bafc583f41d393ad_small.png",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/11/63c3471ea9b49b21bafc583f41d393ad_big.png",
+"utag": [
+{
+"name": "酒鬼主播",
+"id": 71892
+},
+{
+"name": "美美美",
+"id": 41
+},
+{
+"name": "我老婆",
+"id": 278
+},
+{
+"name": "酒鬼媳妇",
+"id": 240008
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5044139,
+"rn": "宝宝们注意保暖♥",
+"uid": 182279885,
+"nn": "u卡u卡",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201807/772546ed58f5fbf7f53c3317dec0d081",
+"ol": 13121,
+"url": "/5044139",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/01/2eeb6b01c7744ff2b078cd32a1de4ae6_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/01/2eeb6b01c7744ff2b078cd32a1de4ae6_big.jpg",
+"utag": [
+{
+"name": "血夫人",
+"id": 220236
+},
+{
+"name": "血哥老婆",
+"id": 171645
+},
+{
+"name": "血嫂",
+"id": 165167
+},
+{
+"name": "三号大军",
+"id": 168760
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5576860,
+"rn": "有没有人会想我。",
+"uid": 193262941,
+"nn": "你的食人奶奶",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/384dce3fd102b9022a1ef39435a5dd3a",
+"ol": 13078,
+"url": "/5576860",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/28/8cbce4ce0b09820dbf4065a35bb13d2f_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/28/8cbce4ce0b09820dbf4065a35bb13d2f_big.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "儒雅",
+"id": 45875
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5079271,
+"rn": "喉咙发炎说话声音有点小qwq包涵包涵鸭",
+"uid": 205988797,
+"nn": "兔仔爱恰糖",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201806/49a5a9a2c0e40b12f0737e1c56bfbda2",
+"ol": 12667,
+"url": "/5079271",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/26/1dac7bdb18b8bb66c17419387cf337e4_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/26/1dac7bdb18b8bb66c17419387cf337e4_big.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "萌萌萌萌",
+"id": 1410
+},
+{
+"name": "TD",
+"id": 14598
+},
+{
+"name": "兔兔最美",
+"id": 135550
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 981294,
+"rn": "新人小姐姐求关注，冲下新星榜吧",
+"uid": 15462127,
+"nn": "梦羽暄",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/44f5193a699a00d16cef93d156a54355",
+"ol": 12255,
+"url": "/981294",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/981294_20181008181332_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/981294_20181008181332_small.jpg",
+"utag": [
+{
+"name": "呆头鹅",
+"id": 59255
+},
+{
+"name": "人美声甜",
+"id": 523
+},
+{
+"name": "自恋到家",
+"id": 262141
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5192425,
+"rn": "不笑运气差 一笑脸就大",
+"uid": 141447963,
+"nn": "新主播郝甜",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/3c6ca3af7e573cbf06cd0c7705d7eb42",
+"ol": 12620,
+"url": "/5192425",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/09/c7c06bd9ffffacf5b95b9bad4537a5cf_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/09/c7c06bd9ffffacf5b95b9bad4537a5cf_big.jpg",
+"utag": [
+{
+"name": "酒鬼主播",
+"id": 71892
+},
+{
+"name": "傻萌甜",
+"id": 46593
+},
+{
+"name": "酒鬼媳妇",
+"id": 240008
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+  {
+    "rid": 3274355,
+    "rn": "地咚 您得辣条到了",
+    "uid": 166346869,
+    "nn": "很萌的羊羊",
+    "cid1": 8,
+    "cid2": 201,
+    "cid3": 581,
+    "iv": 1,
+    "av": "avatar_v3/201809/f3f8bdd73fd1bdfd74c9bbfb84bbe737",
+    "ol": 12690,
+    "url": "/3274355",
+    "c2url": "/directory/game/yz",
+    "c2name": "颜值",
+    "icdata": {},
+    "dot": 0,
+    "subrt": 0,
+    "topid": 0,
+    "bid": 0,
+    "gldid": 0,
+    "rs1": "https://rpic.douyucdn.cn/asrpic/181014/3274355_5694950_3444c_1_2058.jpg",
+    "rs16": "https://rpic.douyucdn.cn/asrpic/181014/3274355_5694950_3444c_2_2058.jpg",
+    "utag": [
+      {
+        "name": "x皇老婆",
+        "id": 178793
+      },
+      {
+        "name": "xx媳妇",
+        "id": 235766
+      },
+      {
+        "name": "XX嫂",
+        "id": 237523
+      },
+      {
+        "name": "刀神老婆",
+        "id": 132367
+      }
+    ],
+    "rpos": 0,
+    "rgrpt": 1,
+    "rkic": "",
+    "rt": 0,
+    "ot": 0,
+    "clis": 1,
+    "chanid": 0,
+    "icv1": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+{
+"rid": 4735973,
+"rn": "你的网瘾女友。",
+"uid": 194426496,
+"nn": "安纯蛋ANAN",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/646581084ef8a8b027f4692261185bc4",
+"ol": 12451,
+"url": "/4735973",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/25/4735973_20180925195404_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/25/4735973_20180925195404_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "安大宝贝",
+"id": 188647
+},
+{
+"name": "嘤嘤怪",
+"id": 8151
+},
+{
+"name": "医疗兵",
+"id": 3198
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5461682,
+"rn": "快来眼熟我",
+"uid": 205994931,
+"nn": "CC柠檬冰",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201806/9804758c9fe8da0d7c5085ceffa4b55b",
+"ol": 14352,
+"url": "/5461682",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/29/5461682_20180829202151_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/29/5461682_20180829202151_small.jpg",
+"utag": [
+{
+"name": "美美美",
+"id": 41
+},
+{
+"name": "初恋",
+"id": 3897
+},
+{
+"name": "十五嫂",
+"id": 222207
+},
+{
+"name": "TD比心",
+"id": 172699
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5769857,
+"rn": "是你的小麦麦的直播间",
+"uid": 229604515,
+"nn": "是你的小麦麦",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/7157ffa82b3ec74c0fdc4202e4ad23b2",
+"ol": 12660,
+"url": "/5769857",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/30/5769857_20180930085722_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/30/5769857_20180930085722_small.jpg",
+"utag": [
+{
+"name": "麦麦小可",
+"id": 257791
+},
+{
+"name": "释怀老婆",
+"id": 257790
+},
+{
+"name": "尘埃女友",
+"id": 257786
+},
+{
+"name": "释怀媳妇",
+"id": 241366
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5610777,
+"rn": "渡劫了！！！！！冲鸭！！！",
+"uid": 223702877,
+"nn": "睡不醒的胖仙女yi",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/47dc799d8cfa7c5584c2881d8ecc7471",
+"ol": 12851,
+"url": "/5610777",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/26/5610777_20180926180459_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/26/5610777_20180926180459_small.jpg",
+"utag": [
+{
+"name": "胖胖萌萌",
+"id": 244271
+},
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "我老婆",
+"id": 278
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5301933,
+"rn": "守一座城 等一个你",
+"uid": 211680590,
+"nn": "一只小小安琪",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/9f4b1004488c6c420821e7df57952466",
+"ol": 12124,
+"url": "/5301933",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5301933_4323411_217a3_1_2053.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5301933_4323411_217a3_2_2053.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "恶魔老婆",
+"id": 125712
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5625497,
+"rn": "变天了 抱紧我",
+"uid": 224039620,
+"nn": "米娜姑凉",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/7d0b6ca322338b8459d030af03465fe3",
+"ol": 13066,
+"url": "/5625497",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5625497_5658062_12eb0_1_2052.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5625497_5658062_12eb0_2_2052.jpg",
+"utag": [
+{
+"name": "傻猴子",
+"id": 245321
+},
+{
+"name": "朕之爱妃",
+"id": 235633
+},
+{
+"name": "开车",
+"id": 20801
+},
+{
+"name": "污妖王",
+"id": 4222
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5098860,
+"rn": "美少女壮士给你唱首好听的歌",
+"uid": 206558995,
+"nn": "一只猫力",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/0f038cf4778d8a5ba8444cf8c2677680",
+"ol": 22887,
+"url": "/5098860",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/20/5098860_20180920232823_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/20/5098860_20180920232823_small.jpg",
+"utag": [
+{
+"name": "好声音",
+"id": 18960
+},
+{
+"name": "歌后",
+"id": 5270
+},
+{
+"name": "颜值担当",
+"id": 245
+},
+{
+"name": "阿姨",
+"id": 5899
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2611018,
+"rn": "【Dancer莉莉】失踪人口回归~",
+"uid": 151438641,
+"nn": "dancer莉莉",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avanew/face/201707/19/18/772d2ed8d0a09ebf5b915bd245279796",
+"ol": 11430,
+"url": "/2611018",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/14/a9b942e6ce85fa203b7a47615ac5e3e7_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/14/a9b942e6ce85fa203b7a47615ac5e3e7_big.jpg",
+"utag": [
+{
+"name": "美丽性感",
+"id": 16519
+},
+{
+"name": "女朋友",
+"id": 6903
+},
+{
+"name": "清纯可爱",
+"id": 411
+},
+{
+"name": "女神范儿",
+"id": 14821
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 1970683,
+"rn": "八卦呀“”神豪的世界我不懂",
+"uid": 130148205,
+"nn": "酒鬼主播",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/e409f03537ba606ccbfaa51acd767dbc",
+"ol": 12363,
+"url": "/1970683",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/appCovers/2017/07/12/1970683_20170712180411_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/appCovers/2017/07/12/1970683_20170712180411_small.jpg",
+"utag": [
+{
+"name": "骗卡主播",
+"id": 61348
+},
+{
+"name": "菜主播",
+"id": 18294
+},
+{
+"name": "套路主播",
+"id": 13551
+},
+{
+"name": "包降级",
+"id": 182129
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5631745,
+"rn": "吃饭睡觉看沐沐",
+"uid": 224395792,
+"nn": "是你沐沐呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/17d0d86ac6878df8ce814cade87a4a02",
+"ol": 12521,
+"url": "/5631745",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5631745_5632218_31917_1_2022.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5631745_5632218_31917_2_2022.jpg",
+"utag": [
+{
+"name": "粤语主播",
+"id": 61446
+},
+{
+"name": "需要刺激",
+"id": 247482
+},
+{
+"name": "走音天后",
+"id": 138917
+},
+{
+"name": "发呆主播",
+"id": 61864
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5337482,
+"rn": "什么都可以错  别再错过我",
+"uid": 212853251,
+"nn": "你的苏阿苏",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/2fb4c310b4eeca009b71233395903279",
+"ol": 12144,
+"url": "/5337482",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5337482_4398319_4a6e1_1_2049.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5337482_4398319_4a6e1_2_2049.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "林林女神",
+"id": 256075
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "林林老婆",
+"id": 261909
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4560196,
+"rn": "感谢你 让我回忆的变得甜蜜",
+"uid": 194791037,
+"nn": "馨予enawo",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/e0df3aa27367a00597a6cadb6ca5977f",
+"ol": 12928,
+"url": "/4560196",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/26/4560196_20180926142350_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/26/4560196_20180926142350_small.jpg",
+"utag": [
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "兰质蕙心",
+"id": 108589
+},
+{
+"name": "超可爱",
+"id": 6971
+},
+{
+"name": "痞气十足",
+"id": 185803
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5648782,
+"rn": "古筝小姐姐",
+"uid": 136392460,
+"nn": "Ccchenbb",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201704/26/16/6ae130985f87a9e8b0dd6e4243ef0772",
+"ol": 11410,
+"url": "/5648782",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/07/809d95363e02ba5cf4d652d25fbd2b65_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/07/809d95363e02ba5cf4d652d25fbd2b65_big.jpg",
+"utag": [
+{
+"name": "古筝大师",
+"id": 244170
+},
+{
+"name": "气质美女",
+"id": 8079
+},
+{
+"name": "古典美女",
+"id": 19704
+},
+{
+"name": "梦中女神",
+"id": 12123
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4174723,
+"rn": "霞霞陪您过周末~~~",
+"uid": 182073409,
+"nn": "天津联通沃直播",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201808/252a81780dcc8247a52d922604e7def0",
+"ol": 11973,
+"url": "/4174723",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/12/b62ee37f582822b2adb2e1011fe3b5c9_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/12/b62ee37f582822b2adb2e1011fe3b5c9_big.jpg",
+"utag": [
+{
+"name": "柿子酱",
+"id": 227097
+},
+{
+"name": "小胖乐",
+"id": 234493
+},
+{
+"name": "珊妹儿",
+"id": 234210
+},
+{
+"name": "女神霞",
+"id": 233319
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2002312,
+"rn": "生活很苦，爱我很甜",
+"uid": 131854561,
+"nn": "大木头CL",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/ac8fed69e97ecf65713bf07b6ba4f751",
+"ol": 12544,
+"url": "/2002312",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/10/b1e6c82c8cc50c46c563b9aa85454ad5_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/10/b1e6c82c8cc50c46c563b9aa85454ad5_big.jpg",
+"utag": [
+{
+"name": "x皇老婆",
+"id": 178793
+},
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "恶魔老婆",
+"id": 125712
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5537015,
+"rn": "哼再不来就不爱你了",
+"uid": 204009979,
+"nn": "你的小璐璐璐",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/cd7ae0fd5f2ed37097c01edb289c1285",
+"ol": 10884,
+"url": "/5537015",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/07/5537015_20180907130733_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/07/5537015_20180907130733_small.jpg",
+"utag": [
+{
+"name": "酒鬼主播",
+"id": 71892
+},
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "橙子媳妇",
+"id": 249262
+},
+{
+"name": "酒鬼媳妇",
+"id": 240008
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5763744,
+"rn": "扶猪起来！！",
+"uid": 201910031,
+"nn": "是你的小猪哦",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/3efe073c992092e693f2b37edfdd7b12",
+"ol": 12152,
+"url": "/5763744",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/11/5763744_20181011182233_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/11/5763744_20181011182233_small.jpg",
+"utag": [
+{
+"name": "三号大军",
+"id": 168760
+},
+{
+"name": "赛文大军",
+"id": 260567
+},
+{
+"name": "赛文妹妹",
+"id": 237363
+},
+{
+"name": "小仙女儿",
+"id": 3427
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 527949,
+"rn": "么么么么么么哒＾3＾",
+"uid": 34448002,
+"nn": "Dream丶大蕊蕊",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/091839f2cc58ddd1e233c1b3e88277e3",
+"ol": 11448,
+"url": "/527949",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/28/527949_20180928184214_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/28/527949_20180928184214_small.jpg",
+"utag": [
+{
+"name": "大白",
+"id": 22390
+},
+{
+"name": "球球",
+"id": 17589
+},
+{
+"name": "呆呆萌萌",
+"id": 77344
+},
+{
+"name": "蕊儿",
+"id": 230731
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5361412,
+"rn": "每一天的努力都是为最后的成功打基础",
+"uid": 213735587,
+"nn": "满分九黎",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/d1213dc65b766ff3bf695d2bfbb05a93",
+"ol": 11244,
+"url": "/5361412",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/14/5361412_20180914090238_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/14/5361412_20180914090238_small.jpg",
+"utag": [
+{
+"name": "虎",
+"id": 6046
+},
+{
+"name": "真彪",
+"id": 228512
+},
+{
+"name": "我大哥",
+"id": 11966
+},
+{
+"name": "最美九黎",
+"id": 261383
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2593822,
+"rn": "嗨…我在呢",
+"uid": 150721919,
+"nn": "小小马229",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201807/19ac7b2fb5225db5ae64c103a64ac5d5",
+"ol": 11426,
+"url": "/2593822",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/26/2593822_20180726204925_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/26/2593822_20180726204925_small.jpg",
+"utag": [
+{
+"name": "我要娶她",
+"id": 75798
+},
+{
+"name": "蠢萌蠢萌",
+"id": 2996
+},
+{
+"name": "温柔",
+"id": 3939
+},
+{
+"name": "傻傻的马",
+"id": 108882
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5084586,
+"rn": "没那么可爱",
+"uid": 206147440,
+"nn": "小雨学妹呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/8038344ae874ba70c5c223d4954efa05",
+"ol": 12412,
+"url": "/5084586",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/10/b30c2430ad42967942a0a01a0cd00a28_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/10/b30c2430ad42967942a0a01a0cd00a28_big.jpg",
+"utag": [
+{
+"name": "恶魔老婆",
+"id": 125712
+},
+{
+"name": "美女",
+"id": 550
+},
+{
+"name": "小巧可爱",
+"id": 139682
+},
+{
+"name": "萝莉",
+"id": 3494
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5465611,
+"rn": "初恋脸了解一下吗",
+"uid": 138845188,
+"nn": "小阿迷迷迷",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/44156e901dc8848f4dd2b6ce28eeac2e",
+"ol": 11011,
+"url": "/5465611",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/06/deb7a44d5ed8840b86c14dcf0e083864_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/06/deb7a44d5ed8840b86c14dcf0e083864_big.jpg",
+"utag": [
+{
+"name": "忘川媳妇",
+"id": 241862
+},
+{
+"name": "忘川老婆",
+"id": 241860
+},
+{
+"name": "忘川媳",
+"id": 241861
+},
+{
+"name": "将就哥",
+"id": 241858
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4896740,
+"rn": "天凉注意保暖~",
+"uid": 202296508,
+"nn": "梨小幺mm",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/7789b4fa9af8bdf9664ae5a06a44988d",
+"ol": 11081,
+"url": "/4896740",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {
+"302": {
+"url": "1",
+"w": 0,
+"h": 0
+}
+},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/4896740_20181008142322_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/08/4896740_20181008142322_small.jpg",
+"utag": [
+{
+"name": "恶魔老婆",
+"id": 125712
+},
+{
+"name": "恶魔媳妇",
+"id": 176293
+},
+{
+"name": "恶魔夫人",
+"id": 188413
+},
+{
+"name": "恶魔小妾",
+"id": 176290
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[
+{
+"id": 302,
+"url": "https://sta-op.douyucdn.cn/dy-listicon/web-lottery-v3.png",
+"score": 501,
+"w": 0,
+"h": 0
+}
+]
+]
+},
+{
+"rid": 5271931,
+"rn": "新人主播新多关照",
+"uid": 210626866,
+"nn": "苏小栀很乖",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/84562bcc55e945e3f8ebb06fef3b1163",
+"ol": 11366,
+"url": "/5271931",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/04/5271931_20180904165318_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/04/5271931_20180904165318_small.jpg",
+"utag": [
+{
+"name": "保时捷控",
+"id": 224526
+},
+{
+"name": "睡衣少女",
+"id": 216473
+},
+{
+"name": "二哈专属",
+"id": 46578
+},
+{
+"name": "百变小樱",
+"id": 133397
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3861950,
+"rn": "不愿染是与非-",
+"uid": 140151570,
+"nn": "Mimi蜜蜜",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/d25019b08a45f66aae5b5122ebeaa5ba",
+"ol": 11290,
+"url": "/3861950",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/03/18/3861950_20180318005643_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/03/18/3861950_20180318005643_small.jpg",
+"utag": [
+{
+"name": "可爱迷人",
+"id": 4852
+},
+{
+"name": "歌声超美",
+"id": 137180
+},
+{
+"name": "温柔恬静",
+"id": 55655
+},
+{
+"name": "人美歌甜",
+"id": 45
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5759163,
+"rn": "需要你陪小yoyo",
+"uid": 229752904,
+"nn": "新人小yoyo",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/3edf797792f0ab3c069f53ce8fc0b0c9",
+"ol": 11348,
+"url": "/5759163",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/27/5759163_20180927164422_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/27/5759163_20180927164422_small.jpg",
+"utag": [
+{
+"name": "美女",
+"id": 550
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 511452,
+"rn": "周年倒计时7天",
+"uid": 32458863,
+"nn": "心心心念念",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/741b289d122d06639d681615e99a57c1",
+"ol": 11134,
+"url": "/511452",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/15/511452_20180715215121_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/07/15/511452_20180715215121_small.jpg",
+"utag": [
+{
+"name": "恶魔老婆",
+"id": 125712
+},
+{
+"name": "老司机",
+"id": 1
+},
+{
+"name": "女神经",
+"id": 4514
+},
+{
+"name": "美丽动人",
+"id": 16869
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2298463,
+"rn": "前来认领你们的女朋友",
+"uid": 130608817,
+"nn": "香菜欧尼呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/535f40eab28270921f2981b43d63381f",
+"ol": 10617,
+"url": "/2298463",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/14/2298463_20180914020808_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/14/2298463_20180914020808_small.jpg",
+"utag": [
+{
+"name": "小妹妹",
+"id": 21735
+},
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "初恋",
+"id": 3897
+},
+{
+"name": "火锅美女",
+"id": 178050
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5658062,
+"rn": "小啦拉驾到",
+"uid": 220069408,
+"nn": "蜜啦拉",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/efa1f077a2e3722ab000bd8411f37ce6",
+"ol": 10698,
+"url": "/5658062",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5658062_5625497_12eb0_1_2052.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5658062_5625497_12eb0_2_2052.jpg",
+"utag": [
+{
+"name": "人美歌舔",
+"id": 40004
+},
+{
+"name": "漂亮莎莎",
+"id": 259676
+},
+{
+"name": "性格爽朗",
+"id": 251759
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5687234,
+"rn": "往后余生都是你 5687234 5687234",
+"uid": 225966477,
+"nn": "你的梦璐ya",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/c6690efc0d4a3ba90296efcce1e62167",
+"ol": 11711,
+"url": "/5687234",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5687234_5545307_53d98_1_2021.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5687234_5545307_53d98_2_2021.jpg",
+"utag": [
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "慌张喜欢",
+"id": 217126
+},
+{
+"name": "慌张媳妇",
+"id": 121123
+},
+{
+"name": "楚楚动人",
+"id": 49531
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 1744453,
+"rn": "请向我表白 说爱我",
+"uid": 111300171,
+"nn": "123妖妖321",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/04605fb882d6f907206f903a0f0a9771",
+"ol": 11636,
+"url": "/1744453",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/1744453_20180919151130_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/1744453_20180919151130_small.jpg",
+"utag": [
+{
+"name": "刀神小三",
+"id": 169118
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "大龙后宫",
+"id": 107933
+},
+{
+"name": "刀哥小三",
+"id": 207648
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 630154,
+"rn": "答应我，不管多苦，你要甜",
+"uid": 47247578,
+"nn": "虾米是个小仙女",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201712/14/17/6db7a3b528f4c9ca3d3df147e8b8171d",
+"ol": 11874,
+"url": "/630154",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/17/630154_20180917000923_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/17/630154_20180917000923_small.jpg",
+"utag": [
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "笑的灿烂",
+"id": 22018
+},
+{
+"name": "吉他女神",
+"id": 168504
+},
+{
+"name": "颜值无敌",
+"id": 42276
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3469863,
+"rn": "往后余生...看不见你笑？怎么睡得着！",
+"uid": 171347591,
+"nn": "Mua楠宝吖",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201804/f7eba900f11dd963125196a34890a5b0",
+"ol": 10606,
+"url": "/3469863",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/05/3469863_20180805182641_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/05/3469863_20180805182641_small.jpg",
+"utag": [
+{
+"name": "傻楠",
+"id": 106470
+},
+{
+"name": "黑屏直播",
+"id": 46536
+},
+{
+"name": "呆萌楠",
+"id": 107162
+},
+{
+"name": "非洲主播",
+"id": 18822
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5167366,
+"rn": "在成都的街头走走",
+"uid": 208307148,
+"nn": "十八线灵魂女歌李宥琳",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201806/epns8nkpdk2j64ov8w1sgwuaa9jcqakh",
+"ol": 11215,
+"url": "/5167366",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/07/30/b6e8d4c3d64b9871c30f7e15c3b431d2_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/07/30/b6e8d4c3d64b9871c30f7e15c3b431d2_big.jpg",
+"utag": [
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "笑容动人",
+"id": 203389
+},
+{
+"name": "可萌可御",
+"id": 569
+},
+{
+"name": "邻家小姐",
+"id": 82594
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4687283,
+"rn": "我来了你呢",
+"uid": 197442572,
+"nn": "西塘cici",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/a2bf67f8c48ee90733ea8bc99f452bea",
+"ol": 11875,
+"url": "/4687283",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/4687283_20180919210130_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/4687283_20180919210130_small.jpg",
+"utag": [
+{
+"name": "这么可爱",
+"id": 85250
+},
+{
+"name": "语笑嫣然",
+"id": 6776
+},
+{
+"name": "温婉可人",
+"id": 104596
+},
+{
+"name": "人美歌甜",
+"id": 45
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5783200,
+"rn": "聋人新主播 多多关照5783200",
+"uid": 230774231,
+"nn": "小珍珍baby",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/e99403c6fdef557d3be01d3fe2763147",
+"ol": 10825,
+"url": "/5783200",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/03/3e465f3f69728f060566ff080dd3cdfc_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/03/3e465f3f69728f060566ff080dd3cdfc_big.jpg",
+"utag": [
+{
+"name": "漂亮",
+"id": 405
+},
+{
+"name": "努力",
+"id": 258
+},
+{
+"name": "温柔",
+"id": 3939
+},
+{
+"name": "呆萌",
+"id": 123
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5711876,
+"rn": "不以物喜不以己悲 5711876",
+"uid": 227018133,
+"nn": "獅子Nikki",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/75cec67455639c5012a4d4876f5e9d1e",
+"ol": 11902,
+"url": "/5711876",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/5711876_20181014194308_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/5711876_20181014194308_small.jpg",
+"utag": [
+{
+"name": "瘦竹竿",
+"id": 249871
+},
+{
+"name": "完美身材",
+"id": 22112
+},
+{
+"name": "兔女郎",
+"id": 9378
+},
+{
+"name": "女神",
+"id": 391
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2430833,
+"rn": "小哥哥~我想买条棉裤",
+"uid": 146841270,
+"nn": "Mua丶苏苏",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/6b93c2d03a203b6e3955070deb1698b0",
+"ol": 11242,
+"url": "/2430833",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/13/2430833_20181013173320_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/13/2430833_20181013173320_small.jpg",
+"utag": [
+{
+"name": "盖盖牛逼",
+"id": 223482
+},
+{
+"name": "荷兰猪",
+"id": 175143
+},
+{
+"name": "猪500",
+"id": 226496
+},
+{
+"name": "苏500",
+"id": 226495
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5670358,
+"rn": "⁽˙³˙⁾◟(๑•́ ₃ •̀๑)◞⁽˙ 5670358 5670358",
+"uid": 225588268,
+"nn": "依然是口口",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/064d8eee30011f390d3df006a65727cf",
+"ol": 10699,
+"url": "/5670358",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/28/5670358_20180928053609_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/28/5670358_20180928053609_small.jpg",
+"utag": [
+{
+"name": "超可爱",
+"id": 6971
+},
+{
+"name": "超傻",
+"id": 32353
+},
+{
+"name": "小阔耐",
+"id": 39255
+},
+{
+"name": "粉色控",
+"id": 114004
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 1256709,
+"rn": "咻咻小天使~",
+"uid": 76636401,
+"nn": "小坏坏一直陪着你",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/96232c42076537ab984a37b8c582177a",
+"ol": 10983,
+"url": "/1256709",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/29/1256709_20180929060302_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/29/1256709_20180929060302_small.jpg",
+"utag": [
+{
+"name": "小心大融",
+"id": 151272
+},
+{
+"name": "最爱宝宝",
+"id": 85534
+},
+{
+"name": "蒙面女侠",
+"id": 80236
+},
+{
+"name": "温柔",
+"id": 3939
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5482284,
+"rn": "新人了解一下~嘿嘿",
+"uid": 209916084,
+"nn": "十元果果",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/b26bcef9a62aeb2932d1e61b42418826",
+"ol": 10103,
+"url": "/5482284",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/12/5482284_20180812105258_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/12/5482284_20180812105258_small.jpg",
+"utag": [
+{
+"name": "酒鬼女友",
+"id": 241451
+},
+{
+"name": "酒鬼媳妇",
+"id": 240008
+},
+{
+"name": "酒鬼老婆",
+"id": 199183
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4801780,
+"rn": "坏脾气主播~",
+"uid": 199821054,
+"nn": "笨笨儿笨笨",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avanew/face/201805/bf965c698d386e92d977c3e7062455f4",
+"ol": 9806,
+"url": "/4801780",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/14/775114866b1fce5d410536042636ad97_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/14/775114866b1fce5d410536042636ad97_big.jpg",
+"utag": [
+{
+"name": "医学硕士",
+"id": 165643
+},
+{
+"name": "一对A",
+"id": 4554
+},
+{
+"name": "美美哒",
+"id": 1484
+},
+{
+"name": "瓜皮队友",
+"id": 15870
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4815882,
+"rn": "等下一站的你",
+"uid": 200026724,
+"nn": "林雨佳ya",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/7320df4649032fe8648f845a5459f86f",
+"ol": 10735,
+"url": "/4815882",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/4815882_20180919133310_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/4815882_20180919133310_small.jpg",
+"utag": [
+{
+"name": "小可爱",
+"id": 379
+},
+{
+"name": "可爱",
+"id": 338
+},
+{
+"name": "丑佳最乖",
+"id": 228048
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5451964,
+"rn": "30级！冲鸭~鸭~鸭~鸭~鸭~嘎~",
+"uid": 216670810,
+"nn": "Me大果然",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/3d80c1465284c197cb6d78c504ce93d6",
+"ol": 11403,
+"url": "/5451964",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5451964_5068825_25424_1_2055.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5451964_5068825_25424_2_2055.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "B总老婆",
+"id": 32630
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5634297,
+"rn": "萌新主播求守护 5634297",
+"uid": 224455248,
+"nn": "昕玥Eamy",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/d270914b8f5d979113ba2c8033151710",
+"ol": 10566,
+"url": "/5634297",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/23/ed4b7f2997dee975a77cfc0c6d623449_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/23/ed4b7f2997dee975a77cfc0c6d623449_big.jpg",
+"utag": [
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "小呆萌",
+"id": 15758
+},
+{
+"name": "三号大军",
+"id": 168760
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 850700,
+"rn": "我想住进你的心里 850700",
+"uid": 60566193,
+"nn": "可可yiu",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/11496f1b51e5512ed26a00c992a2dd3a",
+"ol": 10343,
+"url": "/850700",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/850700_20181014135557_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/850700_20181014135557_small.jpg",
+"utag": [
+{
+"name": "米饭老婆",
+"id": 245933
+},
+{
+"name": "一锅米饭",
+"id": 245927
+},
+{
+"name": "迪丽锅巴",
+"id": 134518
+},
+{
+"name": "超好看",
+"id": 87683
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5413273,
+"rn": "情窦初开遇到你.",
+"uid": 192169450,
+"nn": "你的宝贝哩",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/4df59e9bb9749c5ea3e0d215b7ac7c5f",
+"ol": 11176,
+"url": "/5413273",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/15/5413273_20180915164341_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/15/5413273_20180915164341_small.jpg",
+"utag": [
+{
+"name": "有点东西",
+"id": 65331
+},
+{
+"name": "你的宝贝",
+"id": 243794
+},
+{
+"name": "大平原",
+"id": 240525
+},
+{
+"name": "天降魔音",
+"id": 224229
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5441315,
+"rn": "陪伴是最长情的告白~~ 5441315",
+"uid": 194923303,
+"nn": "一孜漁",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201808/30fb5f70b0649d71651df790ee5e5118",
+"ol": 10522,
+"url": "/5441315",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/5441315_20181014102607_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/5441315_20181014102607_small.jpg",
+"utag": [
+{
+"name": "人美声甜",
+"id": 523
+},
+{
+"name": "超可爱",
+"id": 6971
+},
+{
+"name": "大气知性",
+"id": 233076
+},
+{
+"name": "彪悍的人",
+"id": 218385
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5362040,
+"rn": "吹牛皮来比赛",
+"uid": 213711423,
+"nn": "猫咪是你猫",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/ae5417a0073c976f8573b9efd31a6b4b",
+"ol": 11288,
+"url": "/5362040",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/5362040_20181012210123_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/5362040_20181012210123_small.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "大大大大",
+"id": 5218
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5028955,
+"rn": "今天也要元气满满鸭~",
+"uid": 204598173,
+"nn": "迷斯莹",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201808/39d6ec9cf4ca6b4962cae17fba048cf8",
+"ol": 10058,
+"url": "/5028955",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/03/5028955_20181003115900_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/03/5028955_20181003115900_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "粉色少女",
+"id": 53064
+},
+{
+"name": "迷死人",
+"id": 200390
+},
+{
+"name": "女王陛下",
+"id": 9353
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5425028,
+"rn": "ANING41920的直播间",
+"uid": 215374708,
+"nn": "乌力花花",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/69c8b11ef5c2fc0ea4b3675f591395a5",
+"ol": 10081,
+"url": "/5425028",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/5425028_20180919112229_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/19/5425028_20180919112229_small.jpg",
+"utag": [
+{
+"name": "舔就完事",
+"id": 95627
+},
+{
+"name": "小可爱",
+"id": 379
+},
+{
+"name": "武力花花",
+"id": 220983
+},
+{
+"name": "歌神",
+"id": 1940
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5455859,
+"rn": "来啊 造作啊 5455859",
+"uid": 216381969,
+"nn": "郭小狠",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/acd298f5bc5a209eba4c4248a0addf41",
+"ol": 10749,
+"url": "/5455859",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/02/5455859_20180902090429_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/02/5455859_20180902090429_small.jpg",
+"utag": [
+{
+"name": "坏蛋老婆",
+"id": 199280
+},
+{
+"name": "冷风老婆",
+"id": 191636
+},
+{
+"name": "傻白甜",
+"id": 23
+},
+{
+"name": "呆总老婆",
+"id": 248604
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5746845,
+"rn": "周末快乐呀 5746845",
+"uid": 229016364,
+"nn": "你的宝贝粥",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/f042ca53c91aebca836f4ecbcbae3509",
+"ol": 8903,
+"url": "/5746845",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/25/3908b41db1c85e7a36ab2761a53d243b_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/09/25/3908b41db1c85e7a36ab2761a53d243b_big.jpg",
+"utag": [
+{
+"name": "颜值",
+"id": 4003
+},
+{
+"name": "羞羞女",
+"id": 255027
+},
+{
+"name": "琪琪的人",
+"id": 248742
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5768430,
+"rn": "哼你们都去哪玩了",
+"uid": 223303681,
+"nn": "尤加里",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/8d4ed7562fd189abad933fe9e95a63d2",
+"ol": 8818,
+"url": "/5768430",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/05/5768430_20181005081148_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/05/5768430_20181005081148_small.jpg",
+"utag": [
+{
+"name": "酒鬼前任",
+"id": 262209
+},
+{
+"name": "酒鬼娶你",
+"id": 260371
+},
+{
+"name": "酒鬼女友",
+"id": 241451
+},
+{
+"name": "酒鬼媳妇",
+"id": 240008
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5545307,
+"rn": "奈何思念比恨更顽强",
+"uid": 220873691,
+"nn": "小甜心Juner",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/cb47ab7ad85488fd1227ecd8293310be",
+"ol": 10257,
+"url": "/5545307",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/asrpic/181014/5545307_5687234_53d98_1_2021.jpg",
+"rs16": "https://rpic.douyucdn.cn/asrpic/181014/5545307_5687234_53d98_2_2021.jpg",
+"utag": [
+{
+"name": "緈緈媳妇",
+"id": 232179
+},
+{
+"name": "緈緈老婆",
+"id": 232109
+},
+{
+"name": "緈緈夫人",
+"id": 231720
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4852558,
+"rn": "ufo酱的直播间",
+"uid": 200967263,
+"nn": "ufo酱",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201806/97614a55e5a193a4f5b59d558dc7f323",
+"ol": 10227,
+"url": "/4852558",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/04/29/4852558_20180429164136_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/04/29/4852558_20180429164136_small.jpg",
+"utag": [
+{
+"name": "素颜无敌",
+"id": 45597
+},
+{
+"name": "灵魂歌手",
+"id": 2254
+},
+{
+"name": "真他妈美",
+"id": 212096
+},
+{
+"name": "小仙女",
+"id": 334
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 1136006,
+"rn": "凡事先讨好自己 其它看心情",
+"uid": 51814856,
+"nn": "水冰钥",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/933293b58092c28a5856c7135fb97afb",
+"ol": 9911,
+"url": "/1136006",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/1136006_20181014184248_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/14/1136006_20181014184248_small.jpg",
+"utag": [
+{
+"name": "小可爱",
+"id": 379
+},
+{
+"name": "喵喵玥",
+"id": 171183
+},
+{
+"name": "女神",
+"id": 391
+},
+{
+"name": "污妖王",
+"id": 4222
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5419283,
+"rn": "陪伴是最长情的告白 5419283",
+"uid": 180713598,
+"nn": "米店的米老板",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201807/ea71988b530d1a625e71f29033223140",
+"ol": 9324,
+"url": "/5419283",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5419283_20180901184314_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5419283_20180901184314_small.jpg",
+"utag": [
+{
+"name": "船长老婆",
+"id": 143577
+},
+{
+"name": "老司机",
+"id": 1
+},
+{
+"name": "丰言风语",
+"id": 256650
+},
+{
+"name": "最爱米宝",
+"id": 241638
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4738474,
+"rn": "该来的总是会来",
+"uid": 198462411,
+"nn": "帕柯妮妮",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/99800953dbf2ab8b4f8972dca77ab57b",
+"ol": 8985,
+"url": "/4738474",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/4738474_20181012122155_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/4738474_20181012122155_small.jpg",
+"utag": [
+{
+"name": "小可爱",
+"id": 379
+},
+{
+"name": "萌妹子",
+"id": 347
+},
+{
+"name": "皮皮柯",
+"id": 19835
+},
+{
+"name": "电竞死歌",
+"id": 146
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5684836,
+"rn": "为爱低头陈一豆",
+"uid": 225910257,
+"nn": "卡恩丶陈一豆",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201809/22d5a68d044e5abfca17591a0d2867d6",
+"ol": 10317,
+"url": "/5684836",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/04/092c334f476c968970ee178bf8654118_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/04/092c334f476c968970ee178bf8654118_big.jpg",
+"utag": [
+{
+"name": "淑女",
+"id": 4638
+},
+{
+"name": "人美歌甜",
+"id": 45
+},
+{
+"name": "撩妹高手",
+"id": 16899
+},
+{
+"name": "人机选手",
+"id": 165571
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 2998091,
+"rn": "有趣的灵魂一百四十多斤。",
+"uid": 159563934,
+"nn": "苏挽l",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201708/23/16/d76c698ac50a706cbb92dce73670082d",
+"ol": 9972,
+"url": "/2998091",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/06/2998091_20180906120203_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/06/2998091_20180906120203_small.jpg",
+"utag": [
+{
+"name": "米饭老婆",
+"id": 245933
+},
+{
+"name": "一锅米饭",
+"id": 245927
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4868249,
+"rn": "胜者为王，败者暖床。喵~",
+"uid": 22091125,
+"nn": "Dior丶小奶猫",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/be2e7f62ee071a2269e237be1bc7498e",
+"ol": 10039,
+"url": "/4868249",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {
+"304": {
+"url": "3",
+"w": 0,
+"h": 0
+}
+},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/4868249_20181012190209_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/12/4868249_20181012190209_small.jpg",
+"utag": [
+{
+"name": "可口可爱",
+"id": 191601
+},
+{
+"name": "小奶猫",
+"id": 107118
+},
+{
+"name": "温柔美丽",
+"id": 26668
+},
+{
+"name": "小仙女",
+"id": 334
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[
+{
+"id": 304,
+"url": "https://sta-op.douyucdn.cn/dy-listicon/web-cell-gamble-v3.png",
+"score": 500,
+"w": 0,
+"h": 0
+}
+]
+]
+},
+{
+"rid": 4631058,
+"rn": "这里哪都好  就是没有你",
+"uid": 195402260,
+"nn": "夕呀夕",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/4afb01cf184575b80165c9cfaa3401c9",
+"ol": 10062,
+"url": "/4631058",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/07/4631058_20181007191505_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/07/4631058_20181007191505_small.jpg",
+"utag": [
+{
+"name": "TD比心",
+"id": 172699
+},
+{
+"name": "坑坑女友",
+"id": 249208
+},
+{
+"name": "坑坑老婆",
+"id": 224301
+},
+{
+"name": "夕夕真美",
+"id": 156090
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5066395,
+"rn": "新主播求房管 嘤嘤嘤",
+"uid": 205501386,
+"nn": "天线學妹",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/a9c8d1955ca04cc3b7596cc8591d420a",
+"ol": 9889,
+"url": "/5066395",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/5066395_20181010200023_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/5066395_20181010200023_small.jpg",
+"utag": [
+{
+"name": "铁憨憨",
+"id": 76480
+},
+{
+"name": "石原里美",
+"id": 136792
+},
+{
+"name": "黑粉迷妹",
+"id": 205789
+},
+{
+"name": "呆萌可爱",
+"id": 557
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4846500,
+"rn": "主播距你100",
+"uid": 197340369,
+"nn": "小阿哆一号",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/e9a07212a2faf28d366db8a68f2a2de9",
+"ol": 9404,
+"url": "/4846500",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/06/13/4846500_20180613215737_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/06/13/4846500_20180613215737_small.jpg",
+"utag": [
+{
+"name": "盛世美颜",
+"id": 1451
+},
+{
+"name": "好身材",
+"id": 14805
+},
+{
+"name": "冰雪聪明",
+"id": 478
+},
+{
+"name": "气质",
+"id": 10012
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5274909,
+"rn": "来了就别走了 5274909",
+"uid": 210236072,
+"nn": "依姐姐呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/6c01494dbcaf74b44c5aad3f1ee5ce58",
+"ol": 9843,
+"url": "/5274909",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/25/7e835d0fcf682ddbf0e03e914181ea45_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/08/25/7e835d0fcf682ddbf0e03e914181ea45_big.jpg",
+"utag": [
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "人美声甜",
+"id": 523
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4590001,
+"rn": "今天也要开心鸭 4590001",
+"uid": 145208939,
+"nn": "Zhi芝芝",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/d75d3edb33e92386988cfb2c2ff62117",
+"ol": 9638,
+"url": "/4590001",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/22/4590001_20180922001557_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/22/4590001_20180922001557_small.jpg",
+"utag": [
+{
+"name": "小母猫",
+"id": 204973
+},
+{
+"name": "小母猪",
+"id": 23548
+},
+{
+"name": "公猩猩",
+"id": 213528
+},
+{
+"name": "窈窕淑女",
+"id": 24853
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 4843138,
+"rn": "只要你转身我就在这里",
+"uid": 154865825,
+"nn": "薛洁洁Zz",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/d1a6328f12721a7dd7b66a3ac5a527e7",
+"ol": 9707,
+"url": "/4843138",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/4843138_20181010000724_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/4843138_20181010000724_small.jpg",
+"utag": [
+{
+"name": "呆傻萌",
+"id": 78322
+},
+{
+"name": "十二爱妃",
+"id": 182634
+},
+{
+"name": "短发控",
+"id": 145643
+},
+{
+"name": "刀神老婆",
+"id": 132367
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5367535,
+"rn": "素颜  素颜  某阳懒得化妆",
+"uid": 213929375,
+"nn": "ID萌面超人",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201807/4a9b0c867cbafbecde35f496497aba69",
+"ol": 8666,
+"url": "/5367535",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/07/21/67f8e4d6f7657ed385d1df4ce530d7b4_small.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/07/21/67f8e4d6f7657ed385d1df4ce530d7b4_big.jpg",
+"utag": [
+{
+"name": "死鬼",
+"id": 9978
+},
+{
+"name": "小姐姐",
+"id": 430
+},
+{
+"name": "初恋",
+"id": 3897
+},
+{
+"name": "与你同在",
+"id": 243288
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5254840,
+"rn": "傻白甜小改改爱不爱",
+"uid": 202008050,
+"nn": "小泽小可爱",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/0617012462ee8edb92dced6a3bd32ec2",
+"ol": 9325,
+"url": "/5254840",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/08/5254840_20180808023354_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/08/5254840_20180808023354_small.jpg",
+"utag": [
+{
+"name": "女神",
+"id": 391
+},
+{
+"name": "仙女",
+"id": 3146
+},
+{
+"name": "最美主播",
+"id": 10213
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5610887,
+"rn": "那些年很冒险的梦 5610887",
+"uid": 223627364,
+"nn": "小九九小久久啊",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201808/ecc3a448addd91539c7dc7ecdb3ad0ea",
+"ol": 9575,
+"url": "/5610887",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5610887_20180901145716_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/09/01/5610887_20180901145716_small.jpg",
+"utag": [
+{
+"name": "甜甜",
+"id": 64100
+},
+{
+"name": "豆笔一姐",
+"id": 246815
+},
+{
+"name": "纸皇老婆",
+"id": 240155
+},
+{
+"name": "派对屋",
+"id": 238201
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5221130,
+"rn": "今天的海容有点甜",
+"uid": 207555400,
+"nn": "海容妹妹en",
+"cid1": 2,
+"cid2": 311,
+"cid3": 0,
+"iv": 0,
+"av": "avatar_v3/201810/228bca06ded83063d76a5dc9d9b826f9",
+"ol": 9698,
+"url": "/5221130",
+"c2url": "/directory/game/XX",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/07/5221130_20181007205514_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/07/5221130_20181007205514_small.jpg",
+"utag": [
+{
+"name": "赛文妹妹",
+"id": 237363
+},
+{
+"name": "柒妹妹",
+"id": 242241
+},
+{
+"name": "小心赛文",
+"id": 124606
+},
+{
+"name": "恶魔老婆",
+"id": 125712
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 2,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5054189,
+"rn": "慢慢喜欢你。",
+"uid": 204716950,
+"nn": "绵绵0915",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avanew/face/201805/13d879d983ef659cb104907181106fec",
+"ol": 9921,
+"url": "/5054189",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/06/03/5054189_20180603191220_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/06/03/5054189_20180603191220_small.jpg",
+"utag": [
+{
+"name": "小仙女",
+"id": 334
+},
+{
+"name": "对A",
+"id": 1719
+},
+{
+"name": "女神",
+"id": 391
+},
+{
+"name": "绵",
+"id": 197094
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5558549,
+"rn": "黑魔仙变身%\u0026amp;#@",
+"uid": 221555064,
+"nn": "姓刘的赤赤",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201809/f836aac5661122cdaef90c3a4c9586f9",
+"ol": 9341,
+"url": "/5558549",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/22/5558549_20180822185850_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/08/22/5558549_20180822185850_small.jpg",
+"utag": [
+{
+"name": "放心血哥",
+"id": 222283
+},
+{
+"name": "卖血老婆",
+"id": 202051
+},
+{
+"name": "放心卖血",
+"id": 221770
+},
+{
+"name": "宇哥女人",
+"id": 233550
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 5246011,
+"rn": "缺人聊天的小姐姐……",
+"uid": 208530031,
+"nn": "康康小朋友c",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201806/3d8509d752d049e3d6b043c273b4f5d4",
+"ol": 9248,
+"url": "/5246011",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/01/5246011_20181001223238_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/01/5246011_20181001223238_small.jpg",
+"utag": [
+{
+"name": "刀神老婆",
+"id": 132367
+},
+{
+"name": "刀哥老婆",
+"id": 160799
+},
+{
+"name": "刀蛆老婆",
+"id": 156393
+},
+{
+"name": "傻",
+"id": 862
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+},
+{
+"rid": 3614254,
+"rn": "嗯？3614254",
+"uid": 174812052,
+"nn": "前女友七喜呀",
+"cid1": 8,
+"cid2": 201,
+"cid3": 581,
+"iv": 1,
+"av": "avatar_v3/201810/5805f320ae924985cefb3b95d35d53ac",
+"ol": 9624,
+"url": "/3614254",
+"c2url": "/directory/game/yz",
+"c2name": "颜值",
+"icdata": {},
+"dot": 0,
+"subrt": 0,
+"topid": 0,
+"bid": 0,
+"gldid": 0,
+"rs1": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/3614254_20181010160232_big.jpg",
+"rs16": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/10/10/3614254_20181010160232_small.jpg",
+"utag": [
+{
+"name": "老阿姨",
+"id": 9768
+},
+{
+"name": "傻白甜",
+"id": 23
+},
+{
+"name": "天然呆",
+"id": 6354
+},
+{
+"name": "突突阿姨",
+"id": 250878
+}
+],
+"rpos": 0,
+"rgrpt": 1,
+"rkic": "",
+"rt": 0,
+"ot": 0,
+"clis": 1,
+"chanid": 0,
+"icv1": [
+[],
+[],
+[],
+[]
+]
+}
+],
+"pgcnt": 9
+}
+}
